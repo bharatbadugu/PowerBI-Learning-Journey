@@ -6,7 +6,9 @@ This repo contains my practice dashboards and screenshots, with a **weekly summa
 ---
 
 ## 📂 Repository Structure
-- **Dashboards/** → Power BI `.pbit` files  
+- **Dashboards/** → Power BI `.pbit` files
+  - Week1 → Dashboard from Week 1  
+  - Week2 → Dashboard from Week 2 
 - **Screenshots/** → Organized screenshots by week  
   - Week1 → Screenshots from Week 1  
   - Week2 → Screenshots from Week 2  
@@ -20,7 +22,7 @@ This repo contains my practice dashboards and screenshots, with a **weekly summa
 - Imported sample data from Excel  
 - Data Modelling and basic visuals 
 - 📷 [View Screenshots](Screenshots/Week1/)
-- 📂 [Dashboard File](Dashboards/Week1/Employee_reimbursement_analysis.pbit)
+- 📂 [Dashboard File](Dashboards/Week1/)
 
 ---
 
